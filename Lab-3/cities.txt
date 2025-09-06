@@ -1,0 +1,4 @@
+City Name	Population	Mayor
+Karachi	 18,868,021	, Murtaza Wahab
+Hyderabad	 1,921,275	, Kashif Shoro
+Sukkur	 563,851	, Arsalan Sheikh
